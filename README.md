@@ -32,8 +32,12 @@ I like to work on ![macOS](https://img.shields.io/badge/mac%20os-000000?style=fo
 you can see on my profile a lot of self-taught mini projects and many more to come !
 
 You can join me for any informations :
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
-https://www.linkedin.com/in/othmane-ait-salah-36736423a/
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   https://www.linkedin.com/in/othmane-ait-salah-36736423a/
+
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) othmane.developer@gmail.com
+
+
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) OthmaneAS#3415
 
