@@ -11,6 +11,7 @@ and I'm studying at O'clock a remote web development school. My target is to bec
 ## Otherwise what do I like ? 
 I love low-food and video-game, and in development I like challenges and when it work's.
 I like to work on 
+
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
