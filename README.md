@@ -1,15 +1,11 @@
 
 # Hello world 
 
-Hello everyone, my name is Othmane I am a student in full-stack developement.
+My name is Othmane I am a full-stack developer.
 
 
 ## Where do I work, Where do I study
-I work in remote at Pulsation, a web agency, and I'm studying at O'clock a remote web development school. My target is to become a good full-stack developer.
-
-## Otherwise what do I like ? 
-I video-game, and in development I like challenges and when it work's.
-I like to work on 
+I work in remote at Pulsation Studio, a web agency, and I'm studying at Openclassrooms in master degree.
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -26,7 +22,7 @@ I like to work on
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-you can see on my profile a lot of self-taught mini projects and many more to come !
+you can see on my profile a lot of self-taught projects and many more to come !
 
 You can join me for any informations :
 
