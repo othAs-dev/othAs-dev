@@ -29,7 +29,4 @@ you can see on my profile a lot of self-taught projects and many more to come !
 
 You can join me for any informations :
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   https://www.linkedin.com/in/othmane-ait-salah-36736423a/
-
-
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) othmane.developer@gmail.com
